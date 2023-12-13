@@ -1,2 +1,2 @@
 # gen-ai-notebook
-Assorted generative AI examples. 
+Assorted generative AI examples spanning various concepts.
