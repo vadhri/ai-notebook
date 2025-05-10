@@ -7,7 +7,9 @@ This repository is a list of assorted information on AI and topics below.
 ||Music genre classification using gztan dataset [music_genre_classification_transformers.ipynb](./audio/music_genre_classification_transformers.ipynb)|
 ||Fine-tune Speech5 TTS model using voxpopuli dataset. [text_to_speech.ipynb](./audio/text_to_speech.ipynb)|
 ||Speech to speech HF space [speech-to-speech.py](./audio/speech-to-speech.py) 
-|Images|Basics downsampling, transpose.|
+|Images|Basics Multilayer perceptrons, skip connections, downsampling, transpose.|
+||Data augmentation using transforms [data_augmentation.ipynb](./images/data_augmentation.ipynb)|
+||Synthetic image classifcation <li>[color_classification.ipynb](./images/color_classification.ipynb), <li>[synthetic_image_classification.ipynb](./images/synthetic_image_classification.ipynb)|
 ||Usage of noise in diffusers <li>linear and cosine scheduling [add_noise.ipynb](./images/Noise%20Samples/add_noise.ipynb) <li> Noise prediction [predict_noise](./images/minst/PredictNoise.ipynb)|
 ||Modified UNet for diffusers (example) [Modified_UNet.ipynb](./images/minst/Modified_UNet.ipynb)|
 ||Unet with Fashion_minst [diffusion_fashion_minst.ipynb](./images/minst/diffusion_fashion_minst.ipynb)|
