@@ -10,6 +10,9 @@ This repository is a list of assorted information on AI and topics below.
 |Images|Basics Multilayer perceptrons, skip connections, downsampling, transpose.|
 ||Data augmentation using transforms [data_augmentation.ipynb](./images/data_augmentation.ipynb)|
 ||Synthetic image classifcation <li>[color_classification.ipynb](./images/color_classification.ipynb), <li>[synthetic_image_classification.ipynb](./images/synthetic_image_classification.ipynb)|
+||Retraining models on new datasets [retrain_fruit_model_classification.ipynb](./images/retrain_fruit_model_classification.ipynb)|
+||Embedding for images using Layer outputs [image_embeddings.ipynb](./images/image_embeddings.ipynb)|
+||Activation classification to justify prediction [interpretability_activations.ipynb](./images/interpretability_activations.ipynb)|
 ||Usage of noise in diffusers <li>linear and cosine scheduling [add_noise.ipynb](./images/Noise%20Samples/add_noise.ipynb) <li> Noise prediction [predict_noise](./images/minst/PredictNoise.ipynb)|
 ||Modified UNet for diffusers (example) [Modified_UNet.ipynb](./images/minst/Modified_UNet.ipynb)|
 ||Unet with Fashion_minst [diffusion_fashion_minst.ipynb](./images/minst/diffusion_fashion_minst.ipynb)|
